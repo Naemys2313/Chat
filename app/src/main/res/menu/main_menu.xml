@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/signOutMenuItem"
+        android:orderInCategory="100"
+        android:title="@string/sign_out"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/setUserName"
+        android:orderInCategory="1"
+        android:title="@string/set_user_name"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/setAvatar"
+        android:orderInCategory="2"
+        android:title="@string/set_avatar"
+        app:showAsAction="never" />
+</menu>

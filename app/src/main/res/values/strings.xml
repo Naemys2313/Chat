@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="user_name">User Name</string>
+    <string name="message">Message</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="repeat_your_password">Repeat Your Password</string>
+    <string name="click_to_toggle_sign">Click to toggle sign</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="click_to_sign_in">Click To Sign In</string>
+    <string name="click_to_sign_up">Click To Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="set_user_name">Set User Name</string>
+    <string name="set_avatar">Set Avatar</string>
+</resources>
